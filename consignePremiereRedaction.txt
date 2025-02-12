@@ -1,0 +1,46 @@
+time new roman - 12
+
+interligne 1.5
+
+Paragraphe justifie
+pagination commence a la deuxieme page
+
+
+--
+Page de presenttion :
+
+intitule du cours ainsi que votre groupe : 601-102-MQ Litterature et imaginaire
+
+groupe : 03, 07
+
+dissertation explicative 
+
+titre personnel
+
+votre nom
+
+mon nom hector ruiz
+
+date de remise 24 fevrier 2025
+
+college montmorency
+
+--
+
+page 2
+question de dissertation
+sujet pose 
+2idees principales
+4 idees seoncdaire
+4 citations
+
+-- page 3-4-5 
+
+votre Paragraphe d'introduction
+vos deux paragraphes de dissertation explicative 
+le nombre de mot de votre dissertation
+
+NE PAS OUBLIER D'AGRAPHER LE TRAVAIL
+
+2idees principales 4 idees secondaires
+

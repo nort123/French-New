@@ -1,8 +1,6 @@
 arbre de diane :
 
-1 :
-
-2 :
+2p74:
 ici le vide et l'absence sont des conceptes clés. un trous symbolise l'absence, le manque, une faille dans la réalité
 ou dans l'identité du sujet poétique. Il peut représenter une béance intérieure, une perte, ou encore un acces vers un`
 ailleurs inconnus.
@@ -12,7 +10,6 @@ La fragilité t l'instabilisté :
 le mur qui est normalement un symbole de solidité et de protection/barrière, est instable ce qui écoque une réalité précaire.
 ainsi, le mur de l'innocence, est dans un état instable et précaire et derrière se cache les attrocités du monde adulte et de la société.
 
-
 procédés :
 
 ellipse (syntaxique) : ce poeme ne contient pas de sujet explicite ni de verbe conjugué. cela crée une sensation d'incomplétude et 
@@ -21,20 +18,46 @@ de vide. ca force le lecteur a combler le manque et renforce le sentiment de vid
 Effet : Cette absence de structure syntaxique classique crée un effondrement du language, comme si la parole elle meme était entrain
 de se dissoudre.
 
---
 Métaphore : 
-
 "Un trou" : Le trou est interprété comme une faille existentielle qui est issu de la fin de l'enfance innocente et le
 début de l'âge adulte beaucoup plus mature et atroce.
-
 "Un mur qui tremble" Image paradoxale car le mur est supposé être une structure solide qui protège ce qui est derrière.
 Hors, le mur est instable et va bientôt s'effondrer ce qui va divulger ce qui est derrière prématurément.
-
 Effet : Ces métaphores rendent le poème suggestif, ouvrant plusieurs niveaux, soit au niveau existentielle et sociétale. 
-
 --
-3:
 
+5 p77:"Dans le cerveau de petites fleurs dansant comme des mots dans la bouche d'un muet"
+personnification : Les fleurs dansent, comme si elles avaient une vie prore, cette animation du végétale traduit un univers imaginaire riche
+ce qui fait contraste avec une réalité trop dure à affronter. De plus, le fait qu'elles soient dans la bouche d'un muet traduit une oppression
+de la société. En effet, la société est trop dure pour conserver l'enfance ce qui laisse le vieille enfant renfermé dans son innocence incapable de s'intégrer.Ainsi elle est
+arrivé dans un monde adulte avant l'heure.
 
-IL FAUT AVOIR 4 POEME DIFFERENT POUR 4 CITATIONS DIFFERENTES 
+6p78: "elle se met nue au paradis"
+Métaphore : Cette expression dépasse la simple nudité physique : elle renvoie à un dévoilement total, une mise à nu de l’être intérieur.
+ L’enfance est souvent associée à une pureté, une sincérité absolue, où rien n’est dissimulé.
+ Dans un contexte de précarité, cette vulnérabilité est encore plus marquée,
+ car l’enfant ne dispose d’aucune protection face aux agressions du monde extérieur.
+
+7p79:
+"Elle saute, la chemise en flamme / D’étoile en étoile. / D’ombre en ombre."
+Métaphore : "La chemise en flamme" traduit une image de danger. La chemise, vêtement de protection minimal, est en feu ce qui accentue la fragilité et l'exposition au danger
+
+Parallélisme :  "D’étoile en étoile. / D’ombre en ombre" La répétition de cette structure met l'accent sur un déplacement perpétuel et constant.
+Ainsi l'enfant qui quitte l'enfance précairement est marqué par une instabilisté constante qui empêche un ancrage ainsi qu'une sécurité dans le monde horrible des adultes. Il est
+en fuite, tenu entre l'espoir représenté par les étoiles ainsi que l'enfer de l'adulte représenté par les ombres.
+
+8p80:
+"Ce n'est pas vrai qu'il viendra, ce n'est pas vrai qu'il ne viendra pas."
+
+Paradoxe : l'affirmation et la négation crée un état de suspension où rien n'est certain. Elle est enfermée dans une boucle d'attente où l'arrivée et l'absence sont toutes 
+deux possibles et impossibles.
+
+Répétition : La répétition de "ce n'est pas vrai" met en avant une force d'auto-persuasion. Alejandra tente de se persuader que ce monde qu'elle a quittée trop tot ne reviendra pas
+afin d'avoir aucune attente. Toutefois, elle est incapable d'abandonner totalement celle-ci.
+
+13p85
+"Un bateau m’a quitté en m'emportant"
+antithèse : Cette contradiction exprime une sensation de déracinement avec soi même comme si on ne se reconaissait plus. Ici, Alejandra se sent déconnecté de son propre être
+car elle est tirée de force dans un monde sale qui ne lui appartient pas.
+
 
